@@ -20,3 +20,15 @@ public:
     }
 
 };
+
+class Lingkaran
+{
+    public:
+        int jarijari;
+
+    void input()
+    {
+        cout << "masukan jari-jari :" ;
+        cin >> jarijari;
+    }
+};
